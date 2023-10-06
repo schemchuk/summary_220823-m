@@ -1,0 +1,11 @@
+.block {
+  background-color: #87b2dd;
+  padding: 25px 10px 10px;
+}
+
+p {
+  background-color: #34495E;
+  border-radius: 20px;
+  padding: 21px 40px;
+  color: white;
+}
